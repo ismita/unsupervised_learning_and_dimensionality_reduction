@@ -25,8 +25,6 @@ import random
 import matplotlib.pyplot as plt
 plt.style.use('seaborn-whitegrid')
 pd.set_option('display.max_columns', None)
-# os.chdir(r"C:\GT\2022 Fall\7641\hw3\Assignment 3 Unsupervised Learning") #change this to your current working directory
-#os.chdir(r"C:\Users\kwest18\Desktop\ML Code") #change this to your current working directory
 
 seed = 9
 # ### Load the Phishing Website Data
